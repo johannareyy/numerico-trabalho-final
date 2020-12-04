@@ -1,4 +1,13 @@
-
+#! /usr/bin/python3
+# -*- coding: utf-8 -*-
+#
+# Algoritmos para ajuste de funções
+#_________________________________________________________
+# Universidade Federal de Santa Catarina
+# Departamento de Engenharias da Mobilidade
+# Curso de Cálculo Numérico
+# Johanna Camilla Rey
+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 import matplotlib.pyplot as plt
 import numpy as np
 
